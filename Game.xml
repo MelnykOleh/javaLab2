@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<game>
+    <gameName>Game_2</gameName>
+    <developer>Developer_2</developer>
+    <characterList>
+        <name>character_2</name>
+        <health>22.0</health>
+        <attack>2.0</attack>
+    </characterList>
+    <characterList>
+        <name>character_3</name>
+        <health>33.0</health>
+        <attack>3.0</attack>
+    </characterList>
+    <characterList>
+        <name>character_4</name>
+        <health>44.0</health>
+        <attack>4.0</attack>
+    </characterList>
+    <characterList>
+        <name>character_5</name>
+        <health>55.0</health>
+        <attack>5.0</attack>
+    </characterList>
+    <characterList>
+        <name>character_6</name>
+        <health>66.0</health>
+        <attack>6.0</attack>
+    </characterList>
+</game>
