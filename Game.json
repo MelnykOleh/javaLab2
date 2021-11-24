@@ -1,0 +1,25 @@
+{
+  "gameName" : "Game_3",
+  "developer" : "Developer_3",
+  "characterList" : [ {
+    "name" : "character_3",
+    "health" : 33.0,
+    "attack" : 3.0
+  }, {
+    "name" : "character_4",
+    "health" : 44.0,
+    "attack" : 4.0
+  }, {
+    "name" : "character_5",
+    "health" : 55.0,
+    "attack" : 5.0
+  }, {
+    "name" : "character_6",
+    "health" : 66.0,
+    "attack" : 6.0
+  }, {
+    "name" : "character_7",
+    "health" : 77.0,
+    "attack" : 7.0
+  } ]
+}
